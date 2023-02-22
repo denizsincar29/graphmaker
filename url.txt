@@ -1,0 +1,3 @@
+https://accessibleGraphs.org/view/index.html?data=do%09re%09mi%09fa%09do2%09do3%0D%0A0%092%094%095%0912%0924&descryption=a%20denizian%20graph%0D%0A&minValue=0
+&maxValue=24
+&instrumentType=synthesizer
